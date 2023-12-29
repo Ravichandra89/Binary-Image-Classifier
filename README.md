@@ -19,5 +19,3 @@ The dataset used for training is stored in the `data` directory. Images are orga
 - Python 3.x
 - Install required libraries:
 
-  ```bash
-  pip install -r requirements.txt
